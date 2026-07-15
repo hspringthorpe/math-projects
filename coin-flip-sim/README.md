@@ -2,7 +2,7 @@
 
 Simulates a random number of coin flips specified by the user.
 
-The file will output:
+## The file will output:
 
 •Result of the coin flips as a list.
 
